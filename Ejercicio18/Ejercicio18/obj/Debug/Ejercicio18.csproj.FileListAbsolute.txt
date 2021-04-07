@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\bin\Debug\Ejercicio18.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio18\Ejercicio18\Ejercicio18\obj\Debug\Ejercicio18.pdb
